@@ -31,13 +31,7 @@ Download the source code of the tool from GitHub into your system:
 git clone https://github.com
 ```
 
-### Step 3: Navigate into the Project Folder
-Move inside the downloaded project directory to access the main file:
-```bash
-cd gubbylist-
-```
-
-### Step 4: Fire Up the Tool
+### Step 3: Fire Up the Tool
 Run the program instantly using the Go compiler:
 ```bash
 go run main.go
