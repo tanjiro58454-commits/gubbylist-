@@ -28,7 +28,7 @@ apt install golang git -y
 ### Step 2: Clone the Repository
 Download the source code of the tool from GitHub into your system:
 ```bash
-git clone https://github.com
+git clone https://github.com/tanjiro58454-commits/gubbylist-.git
 ```
 
 ### Step 3: Fire Up the Tool
